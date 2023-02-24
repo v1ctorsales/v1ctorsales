@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Victor Sales</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">Brazillian Full Stack Developer</h3>
 
-- 🚀 You can see my full portfolio at [My Website](http://victorsales.com.br)
+- 🚀 You can see my full portfolio at [My Website 💡](http://victorsales.com.br)
 
-- 📚 I’m studying Angular in projects like this [Weather App](https://v1ctorsales.github.io/Clima-vapp/)
+- 📚 I’m studying Angular in projects like this [Weather App ⛅](https://v1ctorsales.github.io/Clima-vapp/)
 
-- 🔭 I’m also studying React in projects like this [Currency App](https://v1ctorsales.github.io/Cotacao.vapp/)
+- 🔭 I’m also studying React in projects like this [Currency App 💰](https://v1ctorsales.github.io/Cotacao.vapp/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
