@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Sales</h1>
-<h3 align="center">A Brazillian Full Stack Developer</h3>
+<h3 align="center">A Brazillian Front-End Developer</h3>
 
 - 🚀 You can see my full portfolio at [My Website 💡](http://victorsales.com.br)
 
