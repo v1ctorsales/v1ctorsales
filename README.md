@@ -3,9 +3,9 @@
 
 - 🚀 You can see my full portfolio at [My Website 💡](http://victorsales.com.br)
 
-- 📚 I’m studying Angular in projects like this [Weather App ⛅](https://v1ctorsales.github.io/Clima-vapp/)
+- 📚 I’m a C# and Visual Basic Developer
 
-- 🔭 I’m also studying React in projects like this [Currency App 💰](https://v1ctorsales.github.io/Cotacao.vapp/)
+- 🔭 I also study Web Development in projects like this [Weather App ⛅](https://v1ctorsales.github.io/Clima-vapp/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
