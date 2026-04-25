@@ -23,7 +23,7 @@
 
 <div align="left">
 <p>my website: https://victorsales.com.br</p>
-<p>my linkedin: https://www.linkedin.com/in/victor--sales/</p>
+<p>my linkedin: https://www.linkedin.com/in/v1ctorsales/</p>
 </div>
 
 ###
